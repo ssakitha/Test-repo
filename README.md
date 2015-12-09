@@ -1,2 +1,2 @@
 # Test-repo
-This is a test repo
+Learning repo is fun and cool
